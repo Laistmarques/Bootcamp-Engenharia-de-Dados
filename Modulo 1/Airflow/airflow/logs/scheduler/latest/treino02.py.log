@@ -1,0 +1,67 @@
+[2021-03-15 21:00:51,073] {scheduler_job.py:154} INFO - Started process (PID=6503) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:00:51,082] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:00:51,083] {logging_mixin.py:112} INFO - [2021-03-15 21:00:51,083] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:00:51,436] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:00:51,510] {scheduler_job.py:1305} INFO - Processing treino-02
+[2021-03-15 21:00:51,840] {scheduler_job.py:1315} INFO - Created <DagRun treino-02 @ 2021-03-13T18:44:00+00:00: scheduled__2021-03-13T18:44:00+00:00, externally triggered: False>
+[2021-03-15 21:00:51,845] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:38:00+00:00: scheduled__2021-03-13T18:38:00+00:00, externally triggered: False>
+[2021-03-15 21:00:51,856] {logging_mixin.py:112} INFO - [2021-03-15 21:00:51,856] {dagrun.py:320} INFO - Marking run <DagRun treino-02 @ 2021-03-13 18:38:00+00:00: scheduled__2021-03-13T18:38:00+00:00, externally triggered: False> successful
+[2021-03-15 21:00:51,874] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:40:00+00:00: scheduled__2021-03-13T18:40:00+00:00, externally triggered: False>
+[2021-03-15 21:00:51,893] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:42:00+00:00: scheduled__2021-03-13T18:42:00+00:00, externally triggered: False>
+[2021-03-15 21:00:51,909] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:44:00+00:00: scheduled__2021-03-13T18:44:00+00:00, externally triggered: False>
+[2021-03-15 21:00:51,975] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: treino-02> because no tasks in DAG have SLAs
+[2021-03-15 21:00:51,982] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.mostra-idade 2021-03-13 18:40:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:00:51,987] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.calcula-idade-media 2021-03-13 18:42:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:00:51,993] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.get_data 2021-03-13 18:44:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:00:52,012] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.940 seconds
+[2021-03-15 21:02:50,629] {scheduler_job.py:154} INFO - Started process (PID=6922) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:02:50,636] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:02:50,637] {logging_mixin.py:112} INFO - [2021-03-15 21:02:50,637] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:02:51,215] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:02:51,261] {scheduler_job.py:1305} INFO - Processing treino-02
+[2021-03-15 21:02:51,423] {scheduler_job.py:1315} INFO - Created <DagRun treino-02 @ 2021-03-13T18:46:00+00:00: scheduled__2021-03-13T18:46:00+00:00, externally triggered: False>
+[2021-03-15 21:02:51,427] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:40:00+00:00: scheduled__2021-03-13T18:40:00+00:00, externally triggered: False>
+[2021-03-15 21:02:51,439] {logging_mixin.py:112} INFO - [2021-03-15 21:02:51,439] {dagrun.py:320} INFO - Marking run <DagRun treino-02 @ 2021-03-13 18:40:00+00:00: scheduled__2021-03-13T18:40:00+00:00, externally triggered: False> successful
+[2021-03-15 21:02:51,454] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:42:00+00:00: scheduled__2021-03-13T18:42:00+00:00, externally triggered: False>
+[2021-03-15 21:02:51,477] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:44:00+00:00: scheduled__2021-03-13T18:44:00+00:00, externally triggered: False>
+[2021-03-15 21:02:51,502] {scheduler_job.py:771} INFO - Examining DAG run <DagRun treino-02 @ 2021-03-13 18:46:00+00:00: scheduled__2021-03-13T18:46:00+00:00, externally triggered: False>
+[2021-03-15 21:02:51,590] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: treino-02> because no tasks in DAG have SLAs
+[2021-03-15 21:02:51,602] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.mostra-idade 2021-03-13 18:42:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:02:51,609] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.calcula-idade-media 2021-03-13 18:44:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:02:51,616] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: treino-02.get_data 2021-03-13 18:46:00+00:00 [scheduled]> in ORM
+[2021-03-15 21:02:51,636] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 1.010 seconds
+[2021-03-15 21:04:24,659] {scheduler_job.py:154} INFO - Started process (PID=7196) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:04:24,662] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:04:24,663] {logging_mixin.py:112} INFO - [2021-03-15 21:04:24,663] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:04:24,989] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:04:25,029] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.370 seconds
+[2021-03-15 21:05:40,470] {scheduler_job.py:154} INFO - Started process (PID=7304) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:05:40,474] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:05:40,486] {logging_mixin.py:112} INFO - [2021-03-15 21:05:40,485] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:05:42,433] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:05:42,565] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 2.095 seconds
+[2021-03-15 21:07:05,039] {scheduler_job.py:154} INFO - Started process (PID=7535) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:07:05,052] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:07:05,053] {logging_mixin.py:112} INFO - [2021-03-15 21:07:05,052] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:07:05,337] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:07:05,372] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.333 seconds
+[2021-03-15 21:08:16,058] {scheduler_job.py:154} INFO - Started process (PID=7782) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:08:16,068] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:08:16,069] {logging_mixin.py:112} INFO - [2021-03-15 21:08:16,069] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:08:16,688] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:08:16,743] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.685 seconds
+[2021-03-15 21:09:39,317] {scheduler_job.py:154} INFO - Started process (PID=8019) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:09:39,328] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:09:39,330] {logging_mixin.py:112} INFO - [2021-03-15 21:09:39,330] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:09:40,256] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:09:40,293] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.979 seconds
+[2021-03-15 21:10:39,368] {scheduler_job.py:154} INFO - Started process (PID=8122) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:10:39,372] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:10:39,373] {logging_mixin.py:112} INFO - [2021-03-15 21:10:39,373] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:10:39,965] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:10:40,068] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.701 seconds
+[2021-03-15 21:11:39,459] {scheduler_job.py:154} INFO - Started process (PID=8338) to work on /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:11:39,466] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/treino02.py for tasks to queue
+[2021-03-15 21:11:39,468] {logging_mixin.py:112} INFO - [2021-03-15 21:11:39,468] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:11:40,133] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['treino-02']) retrieved from /home/alunoigti/airflow/dags/treino02.py
+[2021-03-15 21:11:40,355] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/treino02.py took 0.895 seconds
