@@ -1,6 +1,6 @@
+# Módulo 1 - Fundamentos
 
-Módulo 1 - Fundamentos
-Objetivos:
+## Objetivos:
 Conceitos fundamentais:
 
 Dados, fontes de dados, Big Data, tipos de dados.
