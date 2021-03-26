@@ -1,0 +1,45 @@
+[2021-03-15 21:00:45,067] {scheduler_job.py:154} INFO - Started process (PID=6496) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:00:45,080] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:00:45,081] {logging_mixin.py:112} INFO - [2021-03-15 21:00:45,081] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:00:45,101] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:00:45,176] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.109 seconds
+[2021-03-15 21:02:44,625] {scheduler_job.py:154} INFO - Started process (PID=6916) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:02:44,638] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:02:44,639] {logging_mixin.py:112} INFO - [2021-03-15 21:02:44,639] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:02:44,650] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:02:44,725] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.100 seconds
+[2021-03-15 21:04:18,631] {scheduler_job.py:154} INFO - Started process (PID=7189) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:04:18,637] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:04:18,639] {logging_mixin.py:112} INFO - [2021-03-15 21:04:18,639] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:04:18,645] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:04:18,682] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.050 seconds
+[2021-03-15 21:05:34,429] {scheduler_job.py:154} INFO - Started process (PID=7296) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:05:34,439] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:05:34,442] {logging_mixin.py:112} INFO - [2021-03-15 21:05:34,442] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:05:34,460] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:05:34,536] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.107 seconds
+[2021-03-15 21:06:59,043] {scheduler_job.py:154} INFO - Started process (PID=7525) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:06:59,058] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:06:59,059] {logging_mixin.py:112} INFO - [2021-03-15 21:06:59,059] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:06:59,071] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:06:59,149] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.106 seconds
+[2021-03-15 21:08:10,021] {scheduler_job.py:154} INFO - Started process (PID=7774) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:08:10,032] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:08:10,033] {logging_mixin.py:112} INFO - [2021-03-15 21:08:10,033] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:08:10,039] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:08:10,066] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.045 seconds
+[2021-03-15 21:09:33,280] {scheduler_job.py:154} INFO - Started process (PID=8010) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:09:33,285] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:09:33,286] {logging_mixin.py:112} INFO - [2021-03-15 21:09:33,286] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:09:33,292] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:09:33,340] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.059 seconds
+[2021-03-15 21:10:33,332] {scheduler_job.py:154} INFO - Started process (PID=8113) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:10:33,343] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:10:33,344] {logging_mixin.py:112} INFO - [2021-03-15 21:10:33,344] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:10:33,349] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:10:33,378] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.046 seconds
+[2021-03-15 21:11:33,415] {scheduler_job.py:154} INFO - Started process (PID=8332) to work on /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:11:33,420] {scheduler_job.py:1589} INFO - Processing file /home/alunoigti/airflow/dags/tuto.py for tasks to queue
+[2021-03-15 21:11:33,421] {logging_mixin.py:112} INFO - [2021-03-15 21:11:33,421] {dagbag.py:417} INFO - Filling up the DagBag from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:11:33,428] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/alunoigti/airflow/dags/tuto.py
+[2021-03-15 21:11:33,456] {scheduler_job.py:162} INFO - Processing /home/alunoigti/airflow/dags/tuto.py took 0.041 seconds
